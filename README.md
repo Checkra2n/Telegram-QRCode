@@ -7,8 +7,11 @@ Telegram 已向开发者宣布北京时间 2023年2月18日21:00 后禁止第三
 
 使用方法：
 通过https://my.telegram.org申请ID和HASH，将Py文件中的TELEGRAM_API_ID和TELEGRAM_API_HASH修改为自己的
+
 pip install telethon
+
 pip install qrcode
+
 python3 user.py
 
 就可以获取登录session。
