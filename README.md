@@ -16,3 +16,5 @@ pip install qrcode
 python3 user.py
 
 就可以获取登录session。
+
+注：35行的SessionName，可以修改成想要的session文件名
